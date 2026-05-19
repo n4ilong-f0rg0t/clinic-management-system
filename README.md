@@ -21,7 +21,7 @@ Project ini merupakan sistem manajemen klinik berbasis Laravel yang dijalankan m
 ## Clone Repository
 
 ```bash
-sudo git clone https://github.com/bubblevy/bubbleclinic.git
+git clone https://github.com/n4ilong-f0rg0t/clinic-management-system.git
 ```
 
 ---
